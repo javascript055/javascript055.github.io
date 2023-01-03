@@ -1,0 +1,7 @@
+
+  function alertUser() {
+    alert('Successfully');
+  }
+
+
+
